@@ -1,0 +1,29 @@
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 3%;
+}
+
+.background {
+    /* The image used */
+    background-image: url("../images/homeinfo.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.searchbutton {
+    background-color: #000080; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
