@@ -1,6 +1,6 @@
-# myLearningPlace frontend
+# Voucher Marketplace frontend
 
-This react application is the frontend part of the myLearningPlace project
+This react application is the frontend part of the Voucher Marketplace project
 
 ## Available Scripts
 
